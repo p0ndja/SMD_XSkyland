@@ -1,0 +1,13 @@
+name: SMD-XSkyland
+main: me.palapon2545.net.xskyland.pluginMain
+version: 0.1.1_BETA
+description: XSkyland-AddOn
+authors: [SMD_SSG_PJ]
+website: Not Yet
+commands:
+  elytra:
+       description: Get Elytra
+       usage: /elytra
+  platewarp:
+       description: Root Command
+       usage: /platewarp
