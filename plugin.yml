@@ -3,7 +3,7 @@ main: me.palapon2545.net.xskyland.pluginMain
 version: 0.1.1_BETA
 description: XSkyland-AddOn
 authors: [SMD_SSG_PJ]
-website: Not Yet
+website: https://github.com/palapon2545/SMD_XSkyland
 commands:
   elytra:
        description: Get Elytra
